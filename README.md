@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Hello World!👋 <br> I'm Lincon, passionate about this incredible world of technology.</p>
+<p align="left">Hello World! 👋 <br> I'm Lincon, passionate about this incredible world of technology.</p>
 
 ###
 
