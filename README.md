@@ -14,7 +14,7 @@
   <a href="https://gitlab.com/lincon-ac" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
   </a>
-  <a href="lincon.ac@gmail.com" target="_blank">
+  <a href="mailto:lincon.ac@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="lincon_ac" target="_blank">
