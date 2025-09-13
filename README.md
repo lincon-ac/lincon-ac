@@ -12,6 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###
+<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px 0;">
+<h3 align="left">🧑🏻‍💻  Hello World! 👋🏻</h3>
+
+###
+
+<p align="left"> I'm Lincon, passionate about this incredible world of technology.</p>
+
+###
+<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px 0;">
+<h3 align="left">🏆 Microsoft Certifications</h3>
+
+###
+
 <div align="center">
   <img height="120" src="https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png"  />
   <img height="120" src="https://ensino.fundacaofat.org.br/uploads/2022/07/ff2d1a147221082dae3fbbec29792ac0.png"  />
@@ -20,38 +34,8 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lincon-ac/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-<!--  <a href="lincon_ac" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>-->
-  <a href="https://gitlab.com/lincon-ac" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
-  </a>
-  <a href="mailto:lincon.ac@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-<!--  <a href="lincon_ac" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>-->
-</div>
-
-###
-
 <!-- <h1 align="center">Hello World!👋</h1> -->
-
-###
-
-<h3 align="left">🧑🏻‍💻  Hello World! 👋🏻</h3>
-
-###
-
-<p align="left"> I'm Lincon, passionate about this incredible world of technology.</p>
-
-###
-
+<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px 0;">
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -109,4 +93,25 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
 -->
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lincon-ac/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+<!--  <a href="lincon_ac" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>-->
+  <a href="https://gitlab.com/lincon-ac" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
+  </a>
+  <a href="mailto:lincon.ac@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+<!--  <a href="lincon_ac" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>-->
+</div>
+
+###
