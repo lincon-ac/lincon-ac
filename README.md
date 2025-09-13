@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="150" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"  />
+  <img height="120" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"  />
+  <img height="110" src="https://ensino.fundacaofat.org.br/uploads/2022/07/ff2d1a147221082dae3fbbec29792ac0.png"  />
 </div>
 
 ###
