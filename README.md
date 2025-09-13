@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="100" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"  />
-  <img height="100" src="https://ensino.fundacaofat.org.br/uploads/2022/07/ff2d1a147221082dae3fbbec29792ac0.png"  />
-  <img height="100" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1604427253/image13260559831400607304.png"  />
+  <img height="110" src="https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png"  />
+  <img height="110" src="https://ensino.fundacaofat.org.br/uploads/2022/07/ff2d1a147221082dae3fbbec29792ac0.png"  />
+  <img height="110" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1604427253/image13260559831400607304.png"  />
 </div>
 
 ###
