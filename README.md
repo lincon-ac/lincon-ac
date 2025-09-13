@@ -12,15 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="left">👋🏻  Hello World</h3>
+
 ###
+
 <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px 0;">
-<h3 align="left">🧑🏻‍💻  Hello World! 👋🏻</h3>
+<h3 align="left">🧑🏻‍💻  About me</h3>
 
 ###
 
 <p align="left"> I'm Lincon, passionate about this incredible world of technology.</p>
 
 ###
+
 <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px 0;">
 <h3 align="left">🏆 Microsoft Certifications</h3>
 
@@ -93,7 +97,6 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
 -->
 
 <div align="center">
