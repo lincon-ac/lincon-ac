@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🧑🏻‍💻  Hello World! 👋🏻</h3>
 
 ###
 
-<p align="left">Hello World! 👋 <br> I'm Lincon, passionate about this incredible world of technology.</p>
+<p align="left"> I'm Lincon, passionate about this incredible world of technology.</p>
 
 ###
 
