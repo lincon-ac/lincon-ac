@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">"Be the change you wish to see in the world" - Gandhi</h3>
+<h1 align="left">"Be the change you wish to see in the world" - Gandhi</h1>
 
 ###
 
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px 0;">
-<h3 align="left">🧑🏻‍💻  About me</h3>
+<h1 align="left">🧑🏻‍💻  About me</h1>
 
 ###
 
@@ -25,8 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px 0;">
-<h3 align="left">🏆 Microsoft Certifications</h3>
+<h1 align="left">🏆 Microsoft Certifications</h1>
 
 ###
 
@@ -39,8 +37,7 @@ Here are some ideas to get you started:
 ###
 
 <!-- <h1 align="center">Hello World!👋</h1> -->
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px 0;">
-<h3 align="left">🛠 Language and tools</h3>
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
