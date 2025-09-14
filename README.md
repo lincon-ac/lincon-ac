@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"> I'm Lincon Agrizzi, passionate about this incredible world of technology.</p>
+<p align="center"> I'm Lincon Agrizzi, passionate about this incredible world of technology.</p>
 
 ###
 
@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
+  <img height="115" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/EXAM-Expert-AI-900.png"  />
+  <img height="115" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/EXAM-Expert-PL-900.png"  />
+  <img height="115" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/EXAM-Expert-AI-102.png"  />
   <img height="115" src="https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png"  />
   <img height="115" src="https://ensino.fundacaofat.org.br/uploads/2022/07/ff2d1a147221082dae3fbbec29792ac0.png"  />
   <img height="115" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1604427253/image13260559831400607304.png"  />
@@ -41,7 +44,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
