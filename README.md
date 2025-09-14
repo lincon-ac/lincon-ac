@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">"Be the change you wish to see in the world" - Gandhi<hr></h3>
+<h3 align="center">"Be the change you wish to see in the world" - Gandhi<hr></h3>
 
 ###
 
-<h1 align="left">🧑🏻‍💻  About me</h1>
+<h2 align="left">🧑🏻‍💻  About me</h2>
 
 ###
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="left">🏆 Microsoft Certifications</h1>
+<h2 align="left">🏆 Microsoft Certifications</h2>
 
 ###
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ###
 
 <!-- <h1 align="center">Hello World!👋</h1> -->
-<h1 align="left">🛠 Languages and tools</h1>
+<h2 align="left">🛠 Languages and tools</h2>
 
 ###
 
