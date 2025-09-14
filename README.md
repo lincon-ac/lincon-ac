@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">"Be the change you wish to see in the world" - Gandhi</h1>
+<h3 align="left">"Be the change you wish to see in the world" - Gandhi<hr></h3>
 
 ###
 
