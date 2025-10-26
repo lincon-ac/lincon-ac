@@ -29,12 +29,14 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="115" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/EXAM-Expert-AI-900.png"  />
+  <img height="115" src="https://www.eduearth.co.in/images/azure/13.png"  />
   <img height="115" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/EXAM-Expert-PL-900.png"  />
   <img height="115" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/EXAM-Expert-AI-102.png"  />
+  <img height="115" src="https://www.eduearth.co.in/images/azure/14.png"  />
   <img height="115" src="https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png"  />
   <img height="115" src="https://ensino.fundacaofat.org.br/uploads/2022/07/ff2d1a147221082dae3fbbec29792ac0.png"  />
   <img height="115" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1604427253/image13260559831400607304.png"  />
+  <img height="115" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*0II-GwnU9Ad4S8IrDGF3fQ.png"  />
 </div>
 
 ###
