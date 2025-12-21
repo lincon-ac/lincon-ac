@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height="100" src="https://images.credly.com/images/fb287d09-3194-42f1-81a7-313ab1a2af4a/blob"  />
+  <img height="100" src="https://images.credly.com/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob"  />
   <img height="100" src="https://www.eduearth.co.in/images/azure/13.png"  />
   <img height="100" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/EXAM-Expert-PL-900.png"  />
   <img height="100" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/EXAM-Expert-AI-102.png"  />
