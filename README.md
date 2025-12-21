@@ -30,16 +30,17 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height="100" src="https://images.credly.com/images/fb287d09-3194-42f1-81a7-313ab1a2af4a/blob"  />
-  <img height="100" src="https://images.credly.com/images/316b62ce-5c97-4fa7-9557-6ad7bc2a0fc0/blob"  />
   <img height="100" src="https://www.eduearth.co.in/images/azure/13.png"  />
   <img height="100" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/EXAM-Expert-PL-900.png"  />
   <img height="100" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/EXAM-Expert-AI-102.png"  />
   <img height="100" src="https://www.eduearth.co.in/images/azure/14.png"  />
+  <img height="100" src="https://images.credly.com/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/twitter_thumb_201604_image.png"  />
   <img height="100" src="https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png"  />
   <img height="100" src="https://ensino.fundacaofat.org.br/uploads/2022/07/ff2d1a147221082dae3fbbec29792ac0.png"  />
   <img height="100" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1604427253/image13260559831400607304.png"  />
   <img height="100" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*0II-GwnU9Ad4S8IrDGF3fQ.png"  />
-  <img height="100" src="https://images.credly.com/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/twitter_thumb_201604_image.png"  />
+  <img height="100" src="https://images.credly.com/images/c697cca4-0ae9-4821-ac6f-6156a041243f/image.png"  />
+  <img height="100" src="https://images.credly.com/images/316b62ce-5c97-4fa7-9557-6ad7bc2a0fc0/blob"  />
 </div>
 
 ###
