@@ -32,12 +32,12 @@ Here are some ideas to get you started:
   <img height="100" src="https://images.credly.com/images/fb287d09-3194-42f1-81a7-313ab1a2af4a/blob"  />
   <img height="100" src="https://images.credly.com/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob"  />
   <img height="100" src="https://assets.dio.me/sv73T1M7qDyCUUCTKW0GGkzxlMUYTUHO78PGrEKO6PE/f:webp/q:80/w:120/L3RyYWNrcy84ZTNmOTllYy05ODMxLTQzZDctOGI2OC1mMjVjOGEyZDU3MGYucG5n"  />
+  <img height="100" src="https://images.credly.com/images/316b62ce-5c97-4fa7-9557-6ad7bc2a0fc0/blob"  />
   <img height="100" src="https://www.eduearth.co.in/images/azure/13.png"  />
   <img height="100" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/EXAM-Expert-PL-900.png"  />
   <img height="100" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/EXAM-Expert-AI-102.png"  />
   <img height="100" src="https://www.eduearth.co.in/images/azure/14.png"  />
   <img height="100" src="https://images.credly.com/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/twitter_thumb_201604_image.png"  />
-  <img height="100" src="https://images.credly.com/images/316b62ce-5c97-4fa7-9557-6ad7bc2a0fc0/blob"  />
   <img height="100" src="https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png"  />
   <img height="100" src="https://ensino.fundacaofat.org.br/uploads/2022/07/ff2d1a147221082dae3fbbec29792ac0.png"  />
   <img height="100" src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1604427253/image13260559831400607304.png"  />
