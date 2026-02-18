@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <img height="100" src="https://images.credly.com/images/fb287d09-3194-42f1-81a7-313ab1a2af4a/blob"  />
   <img height="100" src="https://images.credly.com/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob"  />
   <img height="90" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/badge_safe.webp"  />
+  <img height="100" src="https://raw.githubusercontent.com/lincon-ac/cybersecurity-test/refs/heads/main/SAFe_Agilista_A2_Badge_da_Certifica%C3%A7%C3%A3o.png"  />
   <img height="100" src="https://assets.dio.me/sv73T1M7qDyCUUCTKW0GGkzxlMUYTUHO78PGrEKO6PE/f:webp/q:80/w:120/L3RyYWNrcy84ZTNmOTllYy05ODMxLTQzZDctOGI2OC1mMjVjOGEyZDU3MGYucG5n"  />
   <img height="100" src="https://images.credly.com/images/316b62ce-5c97-4fa7-9557-6ad7bc2a0fc0/blob"  />
   <img height="100" src="https://www.eduearth.co.in/images/azure/13.png"  />
